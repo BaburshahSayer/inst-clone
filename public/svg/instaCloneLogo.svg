@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100" width="500" height="100">
+  <!-- Instagram Logo -->
+  <g>
+    <rect x="10" y="10" width="80" height="80" rx="20" ry="20" fill="none" stroke="#262626" stroke-width="5"/>
+    <circle cx="50" cy="50" r="25" fill="none" stroke="#262626" stroke-width="5"/>
+    <circle cx="75" cy="25" r="6" fill="#262626"/>
+  </g>
+
+  <!-- Instagram Text -->
+  <text x="110" y="65" font-family="Verdana, sans-serif" font-size="48" fill="#262626" font-weight="bold">
+    Instagram
+  </text>
+</svg>
